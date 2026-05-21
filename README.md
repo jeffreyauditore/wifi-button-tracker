@@ -53,7 +53,7 @@ ESP32 project that tracks button presses and sends activity data to ThingSpeak u
 
 ## Preview
 
-![Circuit](image.png)
+![Circuit](image.jpg)
 
 ## Author
-Vasyl
+Sytnyk Vasyl
